@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-in-githum-test/static/css/main.da5aaa1e.chunk.css",
+    "main.js": "/React-in-githum-test/static/js/main.86abaa01.chunk.js",
+    "main.js.map": "/React-in-githum-test/static/js/main.86abaa01.chunk.js.map",
+    "runtime-main.js": "/React-in-githum-test/static/js/runtime-main.c5c64aa2.js",
+    "runtime-main.js.map": "/React-in-githum-test/static/js/runtime-main.c5c64aa2.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/React-in-githum-test/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.20063c70.chunk.js": "/React-in-githum-test/static/js/2.20063c70.chunk.js",
+    "static/js/2.20063c70.chunk.js.map": "/React-in-githum-test/static/js/2.20063c70.chunk.js.map",
+    "index.html": "/React-in-githum-test/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/React-in-githum-test/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.da5aaa1e.chunk.css.map": "/React-in-githum-test/static/css/main.da5aaa1e.chunk.css.map",
+    "static/js/2.20063c70.chunk.js.LICENSE.txt": "/React-in-githum-test/static/js/2.20063c70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5c64aa2.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.20063c70.chunk.js",
+    "static/css/main.da5aaa1e.chunk.css",
+    "static/js/main.86abaa01.chunk.js"
+  ]
+}
